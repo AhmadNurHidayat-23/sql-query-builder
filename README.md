@@ -16,7 +16,7 @@ Laravel 13, React 19, Inertia.js 2, TypeScript, Vite, Vitest, PHPUnit.
 
 ## Cara menjalankan
 
-Memerlukan PHP 8.3+, Composer, dan Node.js 22.12+. Arahkan document root Laragon ke folder `public`.
+Memerlukan PHP 8.4+, Composer, dan Node.js 22.12+. Arahkan document root Laragon ke folder `public`.
 
 ```sh
 composer install
